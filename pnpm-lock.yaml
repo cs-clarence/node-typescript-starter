@@ -15,6 +15,7 @@ specifiers:
   eslint: ^8.17.0
   eslint-config-prettier: ^8.5.0
   jest: ^28.1.1
+  json5: ^2.2.1
   prettier: ^2.6.2
   rimraf: ^3.0.2
   supertest: ^6.2.3
@@ -40,6 +41,7 @@ devDependencies:
   eslint: 8.17.0
   eslint-config-prettier: 8.5.0_eslint@8.17.0
   jest: 28.1.1_@types+node@17.0.41
+  json5: 2.2.1
   prettier: 2.6.2
   rimraf: 3.0.2
   supertest: 6.2.3
